@@ -11,9 +11,6 @@ creating different solutions.</samp><img src="https://media.giphy.com/media/WUlp
 I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
 🏡   I love being with my family and friends, they are everything to me.
-
 ✈️   I love to travel and get to know new places and cultures.
-
 ⚽   Passionate about learning new things and Life.
-
 👨‍🎓   My academic life.here
