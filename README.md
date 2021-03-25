@@ -1,6 +1,6 @@
 # Bhaskar Wagatakar <img src="https://github.com/bhaskarwagatakar/bhaskarwagatakar/blob/d3625986a0aab82f2b590b26d40067792d53c07c/bhaskar_hello_big.gif" width="22px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/bhaskar-wagatakar-9bb72bb3/)]
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/bhaskarwagatakar/)](https://www.linkedin.com/in/bhaskarwagatakar/)
 
 
 ## <samp>Hello World!</samp> <img src="https://github.com/bhaskarwagatakar/bhaskarwagatakar/blob/d3625986a0aab82f2b590b26d40067792d53c07c/earth.gif" width="22px">
