@@ -1,6 +1,9 @@
 # Bhaskar Wagatakar <img src="https://github.com/bhaskarwagatakar/bhaskarwagatakar/blob/d3625986a0aab82f2b590b26d40067792d53c07c/bhaskar_hello_big.gif" width="22px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/bhaskarwagatakar/)](https://www.linkedin.com/in/bhaskarwagatakar/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/bhaskar-wagatakar-9bb72bb3/)](https://www.linkedin.com/in/bhaskar-wagatakar-9bb72bb3/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/bhaskarwagatakar)](https://twitter.com/bhaskarwagatakar)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:bhaskarwagatakar@gmail.com)](mailto:bhaskarwagatakar@gmail.com)
+
 
 
 ## <samp>Hello World!</samp> <img src="https://github.com/bhaskarwagatakar/bhaskarwagatakar/blob/d3625986a0aab82f2b590b26d40067792d53c07c/earth.gif" width="22px">
@@ -18,4 +21,5 @@ I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
 ⚽   Passionate about learning new things and Life.
 
-👨‍🎓   My academic life.here
+👨‍🎓   My academic life.[__here__](https://github.com/bhaskarwagatakar/list-of-courses-certifications)</samp>
+
