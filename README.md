@@ -1,5 +1,7 @@
 # Bhaskar Wagatakar <img src="https://github.com/bhaskarwagatakar/bhaskarwagatakar/blob/d3625986a0aab82f2b590b26d40067792d53c07c/bhaskar_hello_big.gif" width="22px">
 
+[![Linkedin Badge](https://www.linkedin.com/in/bhaskar-wagatakar-9bb72bb3/)]
+
 
 ## <samp>Hello World!</samp> <img src="https://github.com/bhaskarwagatakar/bhaskarwagatakar/blob/d3625986a0aab82f2b590b26d40067792d53c07c/earth.gif" width="22px">
 
