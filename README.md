@@ -21,5 +21,5 @@ I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
 ⚽   Passionate about learning new things and Life.
 
-👨‍🎓   My academic life.[__here__](https://github.com/bhaskarwagatakar/list_of_courses_certifications_resume/blob/96efe4c89c79692c6f4ece953c8b68bdffdacca3/README.md)</samp>
+👨‍🎓   My academic life.[__here__](https://github.com/bhaskarwagatakar/list_of_courses_certifications_resume/blob/47d407f54443c846abc77a799dfb86c4e63f0d76/README.md)</samp>
 
